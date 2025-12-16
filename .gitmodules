@@ -1,3 +1,6 @@
 [submodule "collaborating-with-codex"]
 	path = collaborating-with-codex
 	url = https://github.com/GuDaStudio/collaborating-with-codex
+[submodule "collaborating-with-gemini"]
+	path = collaborating-with-gemini
+	url = https://github.com/GuDaStudio/collaborating-with-gemini
