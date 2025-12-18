@@ -31,6 +31,9 @@
 
 ### 0. 前置要求
 
+>[!WARNING]请确保 Python 版本在3.8以上
+>本项目使用于Python运行脚本，并要求版本在3.8以上，开发测试python版本为3.10.
+
 请确保已安装并配置以下工具：
 
 - [Claude Code](https://docs.claude.com/docs/claude-code) (v2.0.56+)
